@@ -1,0 +1,5 @@
+{
+    "CLASSES" : ["horizontal", "normal", "vertical"],
+    "CLASSES_LENGTH" : 3,
+    "SEGMENT_RANGE" : 5
+}
