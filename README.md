@@ -1,4 +1,4 @@
-# Canalithiasis Recognition
+# Nystagmus Recognition
 
 ## Contributor
 - Junho Shin(me)
