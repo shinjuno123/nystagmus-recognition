@@ -15,6 +15,7 @@
 - Pyqt5
 - Tensorflow
 - Flask
+- OpenCV
 
 ## Overview
 - There is a otolith in ear. This senses the movement of a person but If this otolith detached from semicircular canal, It is called Canalithiasis.
