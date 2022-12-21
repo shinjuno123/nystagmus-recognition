@@ -8,7 +8,7 @@
 - Video Preprocessing
 - Responsible for code that converts many images into a video.
 - Responsible for Pupil Tracker
-- Vectorize the continuous pupil center points.
+- Vectorizing the continuous pupil center points.
 
 ## Technical Stack
 - Python
