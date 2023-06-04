@@ -31,6 +31,8 @@
 
 https://user-images.githubusercontent.com/72008909/208921762-95d20dbe-169b-4fe3-af03-aef65f12237a.mov
 
-## Feedback
+## Feedback(reason I failed this project)
 - This project's AI accurcy is only 60%...
+- The resolution of nystagmus videos which were provided from hospital was lower than my phone camer's resolution.
+- lack of performance of school computer for deep learning.
 
